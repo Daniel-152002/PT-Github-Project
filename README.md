@@ -1,1 +1,3 @@
 # PT-Github-Project
+About
+First, we brainstormed ideas for what kind of website to create, and we came up with the idea to make a "responsive website" focused on food cuisines. We decided to name the website "Campus Cravings" because we are still students, and we wanted to feature Asian foods and great cuisines in our project. We collaborated and helped each other with the coding and building of the website. Each member was assigned specific tasks so we could cooperate and complete the final project. It was a great opportunity for us to create a website like this and connect it to a GitHub repository, as we already had some background knowledge of GitHub. As we continued our journey, we learned new skills that will be valuable in our future endeavors.
